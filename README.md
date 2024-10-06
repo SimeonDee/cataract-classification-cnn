@@ -13,7 +13,7 @@ CNN for Cataract Classiffication project
 - Kaggle (for model training)
 
 ## Setup
-- Create a virtual environment ()
+- Create a virtual environment. See [how to here](https://www.geeksforgeeks.org/python-virtual-environment/)
 ```bash
 $ python -m venv env-name
 ```
