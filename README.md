@@ -31,7 +31,7 @@ $ source env-name/Script/activate
 ## Run the Streamlit App server
 - Run the command below and navigate to the given url on your local machine
 ```bash
-(env-name) $ streali run ./app.py
+(env-name) $ strealit run ./app.py
 ```
 
 ## Stop the running server
