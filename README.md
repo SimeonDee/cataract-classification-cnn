@@ -20,11 +20,13 @@ $ python -m venv env-name
 
 - Activate (switch to) the environment
   - `Mac users`
+    
   ```bash
   $ source env-name/bin/activate
   ```
 
   - `Windows users`
+    
   ```bash
   $ env-name/Script/activate
   ```
